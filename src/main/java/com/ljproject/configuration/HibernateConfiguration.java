@@ -81,7 +81,7 @@ public class HibernateConfiguration {
         mailSender.setHost("smtp.gmail.com");
         mailSender.setPort(587);
         mailSender.setUsername("testg6658@gmail.com");
-        mailSender.setPassword("9924856065");
+        mailSender.setPassword("test");
      
         Properties javaMailProperties = new Properties();
         javaMailProperties.put("mail.smtp.starttls.enable", "true");
